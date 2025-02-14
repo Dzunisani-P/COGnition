@@ -11,7 +11,7 @@ git clone https://github.com/Dzunisani-P/COGnition.git
 cd COGnition
 ```
 
-# Set Up a Virtual Environment
+## Set Up a Virtual Environment
 Create and activate a virtual environment:
 
 On Windows (PowerShell)
@@ -26,13 +26,13 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-# Install Dependencies
+## Install Dependencies
 Install all required packages using requirements.txt:
 ```bash
 pip install -r requirements.txt
 ```
 
-# Run the Application
+## Run the Application
 Once dependencies are installed, start the FastAPI application:
 ```bash
 python run.py
