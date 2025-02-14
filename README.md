@@ -38,7 +38,7 @@ Once dependencies are installed, start the FastAPI application:
 python run.py
 ```
 
-🌐 Access the API
+## 🌐 Access the API
 Once running, open your browser and navigate to:
 
 API Root: http://127.0.0.1:8000/
